@@ -15,12 +15,12 @@ const projects =[
         github:"https://github.com/AghedoEmmanuel/hostel-management-system-frontend",
         link:""
     },
-    {
-        name:"Tea Production Analysis",
-        description:"I carried out an anaylsis using python to see what country produced the most tea in the continent of Africa",
-        github:"https://github.com/AghedoEmmanuel/CEN-414-Assignment-on-Tea-Production-for-18CJ24100",
-        link:""
-    },
+    // {
+    //     name:"Tea Production Analysis",
+    //     description:"I carried out an anaylsis using python to see what country produced the most tea in the continent of Africa",
+    //     github:"https://github.com/AghedoEmmanuel/CEN-414-Assignment-on-Tea-Production-for-18CJ24100",
+    //     link:""
+    // },
 ]
 
 const Project = () => {
