@@ -15,12 +15,24 @@ const projects =[
         github:"https://github.com/AghedoEmmanuel/hostel-management-system-frontend",
         link:""
     },
-    // {
-    //     name:"Tea Production Analysis",
-    //     description:"I carried out an anaylsis using python to see what country produced the most tea in the continent of Africa",
-    //     github:"https://github.com/AghedoEmmanuel/CEN-414-Assignment-on-Tea-Production-for-18CJ24100",
-    //     link:""
-    // },
+    {
+        name:"Loan Calculator",
+        description:"A simple calculator that shows the monthly payment needed to cover a loan.",
+        github:"https://github.com/AghedoEmmanuel/Loan-Calculator",
+        link:""
+    },
+    {
+        name:"Movie Search Application",
+        description:"This application allows user to search for movies using the TMBD API",
+        github:"https://github.com/AghedoEmmanuel/HNGx/tree/main/stage_two",
+        link:""
+    },
+    {
+        name:"Image Rearrangement Application",
+        description:"This application allows user to search for movies using the TMBD API",
+        github:"https://github.com/AghedoEmmanuel/HNGx/tree/main/stage_three",
+        link:""
+    },
 ]
 
 const Project = () => {
