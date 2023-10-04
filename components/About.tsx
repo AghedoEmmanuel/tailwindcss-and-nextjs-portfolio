@@ -31,7 +31,7 @@ const About = () => {
                     </p>
                     <br/>
                     <p>
-                        I am a Graduate of Covenant University, Nigeria. I studied Computer Engineering and I have taken an interest in this field
+                        I am a Graduate of Covenant University, Nigeria. I studied Computer Engineering and I have taken an interest in this field.
                     </p>
                     <br/>
                     <p>
