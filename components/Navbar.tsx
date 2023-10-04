@@ -51,7 +51,7 @@ const Navbar = () => {
         <div className={`flex- justify-self-center pb-3 mt-8 md:block md:pb-0 md:mt-0 ${navbar?"block":"hidden"}`}>
         <div className='items-center justify-center space-y-5 md:flex md:space-x-6 md:space-y-0'>
           {Nav_items.map((item, idx) => { 
-            return <Link key={idx} to={item.page} className={'block lg:inline-block text-neutral-900 hover:text-neutral-500 dark:text-neutral-400'} activeClass='active' spy={true} smooth={true} offset={-100} duration={500} onClick={()=>SetNavbar(!navbar)}>{item.label}</Link> 
+            return <Link key={idx} to={item.page} className={'block lg:inline-block text-neutral-900 hover:text-neutral-500 dark:text-neutral-400 cursor-pointer'} activeClass='active' spy={true} smooth={true} offset={-100} duration={500} onClick={()=>SetNavbar(!navbar)}>{item.label}</Link> 
             })}
 
           {currentTheme === 'dark' ? (

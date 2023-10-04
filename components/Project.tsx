@@ -30,7 +30,7 @@ const projects =[
     {
         name:"Image Rearrangement Application",
         description:"This application allows user to search for movies using the TMBD API",
-        github:"https://github.com/AghedoEmmanuel/HNGx/tree/main/stage_three",
+        github:"https://github.com/AghedoEmmanuel/Loan-Calculator",
         link:""
     },
 ]
